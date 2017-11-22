@@ -12,11 +12,7 @@ public class FFDebugTest {
 
     public static void main(String[] args) {
         FFDebugTest debug = new FFDebugTest(new int[3]);
-        FFDebugTest.getValue(debug.myArray);
-        
-        
-        
-        
+        FFDebugTest.getValue(debug.myArray);       
         System.out.println("La plus grande valeur est : "
                 + FFDebugCalc.findMax(debug.myArray));
         
