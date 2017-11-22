@@ -7,6 +7,7 @@ public class FFDebugTest {
     private int[] myArray;
     private int myInt;
     private boolean myBoolean;
+    
     private String myString;
 
     public static void main(String[] args) {
